@@ -1,0 +1,17 @@
+{/* <span className='text-xl hover:text-yellow-700'>
+<ion-icon name="search-outline"></ion-icon>
+</span> */}
+
+{/* {
+Links.map((link) => (
+<li key={link.name} className='md:ml-8 text-xl md:my-0 my-7'>
+<a key={link.name} href='{link.link}' className='text-gray-800 duration-500 hover:text-yellow-700'>
+{link.icon && <i className={link.icon}></i>}
+{link.name}
+</a>
+</li>
+))
+} */}
+{/* <ion-icon name="menu-outline"></ion-icon> */}
+{/* <ion-icon name="close-outline"></ion-icon> */}
+{/* <sup>&copy;</sup>  */}

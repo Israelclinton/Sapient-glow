@@ -1,0 +1,1 @@
+import 'ionicons/dist/ionicons/ionicons.css';
