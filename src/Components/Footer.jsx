@@ -1,13 +1,16 @@
 import React from 'react'
 import ItemsContainer from './ItemsContainer';
+import SocialIcons from './SocialIcons';
+import {Icons} from './Menu';
+
 
 const Footer = () => {
   return (
 
-        <footer className='mt-6 text-gray-600 bg-gray-200 border-t-2'>
+        <footer className='text-gray-600 bg-gray-200 border-t-2 border-gray-400'>
             <div className='px-4 text-gray-600 md:flex md:justify-between sm:px-12 py-7 md:items-center'>
                 <h1 className='mb-6 text-3xl font-semibold lg:text-4xl md:mb-0 lg:leading-normal md:w-2/5'>
-                    <span className='text-yellow-700'>
+                    <span className='font-extrabold text-yellow-700'>
                         Free
                     </span> until you're ready to launch
                 </h1>
@@ -19,6 +22,11 @@ const Footer = () => {
                 </div>
             </div>
             <ItemsContainer />
+            <div className='grid grid-cols-1 gap-10 pt-2 pb-8 text-sm text-center text-gray-600 sm:grid-cols-2 lg:grid-cols-3'>
+                <span> &copy; 2025 Fe@r_LeSS. All rights reserved.</span>
+                <span>Terms &amp; Privacy Policy</span>
+                <SocialIcons Icons={Icons} />
+            </div>
         </footer>
   );
 };

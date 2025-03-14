@@ -26,7 +26,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <div className="relative w-full h-[580px] overflow-hidden border-b-2 border-gray-100 my-20">
+    <div className="relative w-full h-[580px] overflow-hidden border-b-2 border-gray-400 mt-16 mb-4">
       <div
         className="absolute inset-0 flex transition-transform duration-1000 ease-in-out"
         style={{ transform: `translateX(-${currentIndex * 100}%)` }}
@@ -38,7 +38,7 @@ const Hero = () => {
               style={{ backgroundImage: `url(${src})` }}
             >
               <div className="px-4 py-24 font-bold text-left text-black md:w-auto">
-                <h1 className="mb-6 text-5xl text-yellow-700">Sapient-Glow</h1>
+                <h1 className="mb-6 text-5xl text-yellow-700 ">Sapient-Glow</h1>
                 <div className="px-8 py-6 text-wrap w-[480px] mb-4">
                   <p className="text-xl text-gray-600">
                     Offering the best relaxation through a combination of soothing treatments, luxurious spa services, and a peaceful atmosphere designed to rejuvenate your body and mind, ensuring a truly blissful experience.

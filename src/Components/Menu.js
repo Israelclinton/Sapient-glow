@@ -1,14 +1,16 @@
 export const PRODUCTS = [
-    {name:'Drop And Drop', link:'#'},
-    {name:'Visual Studio X', link:'#'},
-    {name:'Easy Content', link:'#'},
+    {name:'Online Consultation', link:'#'},
+    {name:'Membership', link:'#'},
+    {name:'Treatment Plans', link:'#'},
+    {name:'Beauty & Skincare', link:'#'},
+    {name:'Gift-Cards Packages', link:'#'},
 ];
 
 export const RESOURCES = [
-    {name:'Industries And Tools', link:'#'},
+    {name:'Video Tutorials', link:'#'},
     {name:'Use Cases', link:'#'},
-    {name:'Blog', link:'#'},
-    {name:'Online Event', link:'#'},
+    {name:'Blog Articles', link:'#'},
+    {name:'E-books & PDFs', link:'#'},
     {name:'Nostrud Exercitation', link:'#'},
 ];
 
@@ -16,14 +18,14 @@ export const COMPANY = [
     {name:'Diversity And Inclusion', link:'#'},
     {name:'About Us', link:'#'},
     {name:'Press', link:'#'},
-    {name:'Customer Stories', link:'#'},
+    {name:'Customer Stories & Testimonials', link:'#'},
 ];
 
 export const SUPPORT = [
     {name:'Documentation', link:'#'},
     {name:'Tutorials & guides', link:'#'},
-    {name:'Webinars', link:'#'},
-    {name:'Open-source', link:'#'},
+    {name:'Workshops & Webinars ', link:'#'},
+    {name:'FAQs', link:'#'},
 ];
 
 export const Icons = [
