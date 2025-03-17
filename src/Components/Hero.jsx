@@ -7,12 +7,12 @@ import hero7 from "../assets/images/hero7.jpg";
 import hero4 from "../assets/images/hero4.jpg";
 import hero5 from "../assets/images/hero5.jpg";
 import hero6 from "../assets/images/hero6.jpg";
-// import hero9 from "../assets/images/hero9.jpg";
-// import hero11 from "../assets/images/hero11.jpg";
+import hero9 from "../assets/images/hero9.jpg";
+import hero11 from "../assets/images/hero11.jpg";
 
 
-const images = [hero, hero1, hero2, hero7, hero4, hero5, hero6];
-// const images = [hero, hero1, hero11, hero2, hero7, hero4, hero5, hero9];
+// const images = [hero, hero1, hero2, hero7, hero4, hero5, hero6];
+const images = [hero, hero1, hero11, hero2, hero7, hero4, hero5, hero9, hero6];
 
 
 const Hero = () => {

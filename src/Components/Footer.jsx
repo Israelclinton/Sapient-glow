@@ -17,7 +17,7 @@ const Footer = () => {
                 <div>
                     <input type="text" placeholder='Enter Your Email.' className='text-black sm:w-72 w-full sm:mr-5 mr-1 lg:mb-0 mb-4 py-2.5 rounded px-2 focus:outline shadow-md shadow-gray-500 bg-gray-100'/>
                     <button className='px-5 text-white duration-500 bg-gray-500 hover:bg-yellow-700 py-2.5 rounded-md font-bold shadow-md shadow-gray-500 md:w-auto w-full'>
-                        Request Code
+                        Book Now
                     </button>
                 </div>
             </div>

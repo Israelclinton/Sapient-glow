@@ -12,6 +12,7 @@ const services = [
   { name: "Nutrition", image: "src/assets/images/nutrition6.jpg" },
   { name: "Pedicure", image: "src/assets/images/pedicure.jpg" },
   { name: "Manicure", image: "src/assets/images/manicure.jpg" },
+  { name: "Fitness", image: "src/assets/images/bell3.jpg" },
 ];
 
 const ServicesSection = () => {

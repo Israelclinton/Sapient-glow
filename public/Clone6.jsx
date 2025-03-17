@@ -7,23 +7,22 @@ const AboutUs = () => {
       <div className="relative w-full max-w-lg h-[250px] flex justify-center lg:justify-end">
         {/* First Image */}
         <img
-          src="./src/assets/images/menu2.jpg"
-          alt="Menu 2"
-          className="absolute top-0 border-4 border-white left-0 rounded-lg shadow-lg w-[250px] h-[180px] transition-all duration-1000 hover:z-50 hover:scale-105"
+          src="./src/assets/images/spa1.jpg"
+          alt="Spa 1"
+          className="absolute top-0 left-0 rounded-lg shadow-lg w-[250px] h-[180px]"
         />
-        {/* Second Image */}
         <img
           src="./src/assets/images/spa2.jpg"
           alt="Spa 2"
-          className="absolute border-4 border-white rounded-lg shadow-lg top-20 right-24 sm:left-20 w-[250px] h-[180px] transition-all duration-1000 hover:z-50 hover:scale-105"
-        />
-        {/* Third Image */}
+          className="absolute border-4 border-white rounded-lg shadow-lg top-20 right-24 sm:left-20 w-[250px] h-[180px]"
+          />
         <img
           src="./src/assets/images/suite.jpg"
           alt="Suite"
-          className="absolute border-4 border-white rounded-lg shadow-lg top-40 left-48 sm:left-40 w-[260px] h-[180px] transition-all duration-1000 hover:z-50 hover:scale-105"
+          className="absolute border-4 border-white rounded-lg shadow-lg top-40 left-40 sm:left-56 w-[260px] h-[180px]"
         />
       </div>
+      
 
       {/* About Us Content */}
       <div className="w-full max-w-2xl mb-8 text-center lg:text-left lg:mb-0">
