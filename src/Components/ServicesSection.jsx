@@ -2,17 +2,17 @@ import React, { useRef } from "react";
 import ServicesCard from "./ServicesCard";
 
 const services = [
-  { name: "Facial Treatment", image: "src/assets/images/facial2.jpg" },
-  { name: "Massage", image: "src/assets/images/massage.jpg" },
-  { name: "Resort", image: "src/assets/images/resort4.jpg" },
-  { name: "Suite", image: "src/assets/images/suite2.jpg" },
-  { name: "Spa Therapy", image: "src/assets/images/therapy2.jpg" },
-  { name: "Wellness", image: "src/assets/images/spa1.jpg" },
-  { name: "Cosmetics", image: "src/assets/images/cosmetic5.jpg" },
-  { name: "Nutrition", image: "src/assets/images/nutrition6.jpg" },
-  { name: "Pedicure", image: "src/assets/images/pedicure.jpg" },
-  { name: "Manicure", image: "src/assets/images/manicure.jpg" },
-  { name: "Fitness", image: "src/assets/images/bell3.jpg" },
+  { name: "Facial Treatment", image: "public/assets/images/facial2.jpg" },
+  { name: "Massage", image: "public/assets/images/massage.jpg" },
+  { name: "Resort", image: "public/assets/images/resort4.jpg" },
+  { name: "Suite", image: "public/assets/images/suite2.jpg" },
+  { name: "Spa Therapy", image: "public/assets/images/therapy2.jpg" },
+  { name: "Wellness", image: "public/assets/images/spa1.jpg" },
+  { name: "Cosmetics", image: "public/assets/images/cosmetic5.jpg" },
+  { name: "Nutrition", image: "public/assets/images/nutrition6.jpg" },
+  { name: "Pedicure", image: "public/assets/images/pedicure.jpg" },
+  { name: "Manicure", image: "public/assets/images/manicure.jpg" },
+  { name: "Fitness", image: "public/assets/images/bell3.jpg" },
 ];
 
 const ServicesSection = () => {

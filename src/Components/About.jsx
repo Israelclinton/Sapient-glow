@@ -1,5 +1,4 @@
 import React from 'react';
-
 const About = () => {
   return (
     <div className="grid justify-between grid-cols-1 gap-6 px-6 py-12 mb-5 flex-grid sm:grid-cols-3 lg:grid-cols-4 sm:px-8items-center lg:px-20">
@@ -17,27 +16,27 @@ const About = () => {
       <div className="relative w-full max-w-lg h-[250px]">
         {/* First Image */}
         <img
-          src="./src/assets/images/spa1.jpg"
+          src="./public/assets/images/spa1.jpg"
           alt="Spa 1"
           className="absolute top-0 left-0 rounded-lg shadow-lg w-[250px] h-[150px]"
         />
 
         {/* Second Image */}
         <img
-          src="./src/assets/images/meditation4.jpg"
+          src="./public/assets/images/meditation4.jpg"
           alt="Meditation 4"
           className="absolute border-4 border-white rounded-lg shadow-lg top-20 left-16  w-[250px] h-[150px]"
         />
 
         {/* Third Image */}
         <img
-          src="./src/assets/images/spa5.jpg"
+          src="./public/assets/images/spa5.jpg"
           alt="Spa 3"
           className="absolute border-4 border-white rounded-lg shadow-lg top-40 left-36 w-[250px] h-[150px]"
         />
         {/* Fourth Image */}
         <img
-          src="./src/assets/images/suite.jpg"
+          src="./public/assets/images/suite.jpg"
           alt="Suite"
           className="absolute border-4 border-white rounded-lg shadow-lg top-60 left-52 w-[250px] h-[150px]"
         />
