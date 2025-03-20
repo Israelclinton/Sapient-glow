@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-@media (max-width: 1200px) {
+/* @media (max-width: 1200px) {
     .dropdown-menu {
       position: relative;
       width: 100%;
     }
-}
+} */
   
