@@ -33,7 +33,7 @@ const AboutUs = () => {
         <p className="text-gray-600 text-md">
           We are dedicated to providing the best wellness and beauty services. Our mission is to help you relax, rejuvenate, and feel your best with premium spa treatments, facial care, and wellness programs. We also offer holistic therapies, personalized skincare solutions, and luxurious body treatments designed to restore balance, enhance your natural glow, and promote overall well-being.
         </p>
-      <button className='px-5 text-white duration-500 bg-yellow-700 hover:bg-gray-500 py-2.5 rounded-md font-bold shadow-md shadow-gray-500 md:w-auto w-full mb-6 mt-8'>
+      <button className='px-5 text-white duration-500 bg-yellow-700 hover:bg-gray-500 py-2.5 rounded-md font-bold shadow-md shadow-gray-50 mb-6 mt-8'>
         Read More
       </button>
       </div>
