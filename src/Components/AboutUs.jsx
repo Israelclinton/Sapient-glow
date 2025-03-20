@@ -7,19 +7,19 @@ const AboutUs = () => {
       <div className="relative w-full max-w-lg h-[250px] flex justify-center lg:justify-end">
         {/* First Image */}
         <img
-          src="./public/assets/images/menu2.jpg"
+          src="/assets/images/menu2.jpg"
           alt="Menu 2"
           className="absolute top-0 border-4 border-white left-0 rounded-lg shadow-lg w-[250px] h-[180px] transition-all duration-1000 hover:z-50 hover:scale-105"
         />
         {/* Second Image */}
         <img
-          src="./public/assets/images/spa2.jpg"
+          src="/assets/images/spa2.jpg"
           alt="Spa 2"
           className="absolute border-4 border-white rounded-lg shadow-lg top-20 right-24 sm:left-20 w-[250px] h-[180px] transition-all duration-1000 hover:z-50 hover:scale-105"
         />
         {/* Third Image */}
         <img
-          src="./public/assets/images/suite.jpg"
+          src="/assets/images/suite.jpg"
           alt="Suite"
           className="absolute border-4 border-white rounded-lg shadow-lg top-40 left-48 sm:left-40 w-[260px] h-[180px] transition-all duration-1000 hover:z-50 hover:scale-105"
         />

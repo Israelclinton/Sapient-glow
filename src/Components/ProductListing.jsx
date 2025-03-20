@@ -1,5 +1,5 @@
 import React from 'react'
-import facial from '../assets/images/facial.jpg'
+import facial from '/assets/images/facial.jpg'
 
 const ProductListing = () => {
   return (

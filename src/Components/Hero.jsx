@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from "react";
 import ReadMore from "./ReadMore";
-import hero from '../assets/images/hero.jpg';
-import hero1 from "../assets/images/hero1.jpg";
-import hero2 from "../assets/images/hero2.jpg";
-import hero7 from "../assets/images/hero7.jpg";
-import hero4 from "../assets/images/hero4.jpg";
-import hero5 from "../assets/images/hero5.jpg";
-import hero6 from "../assets/images/hero6.jpg";
-import hero9 from "../assets/images/hero9.jpg";
-import hero11 from "../assets/images/hero11.jpg";
+import hero from '/assets/images/hero.jpg';
+import hero1 from "/assets/images/hero1.jpg";
+import hero2 from "/assets/images/hero2.jpg";
+import hero7 from "/assets/images/hero7.jpg";
+import hero4 from "/assets/images/hero4.jpg";
+import hero5 from "/assets/images/hero5.jpg";
+import hero6 from "/assets/images/hero6.jpg";
+import hero9 from "/assets/images/hero9.jpg";
+import hero11 from "/assets/images/hero11.jpg";
 
 
 // const images = [hero, hero1, hero2, hero7, hero4, hero5, hero6];
