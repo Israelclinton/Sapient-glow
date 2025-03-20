@@ -34,7 +34,7 @@ const ServicesSection = () => {
 
   return (
     <div className="relative w-full mt-10 mb-10 overflow-hidden bg-whit">
-      <h2 className="mb-6 text-4xl font-bold text-center text-yellow-700">
+      <h2 className="mb-14 text-4xl font-bold text-center text-yellow-700">
         Our <span className="text-gray-600">Services</span>
       </h2>
 
